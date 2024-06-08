@@ -1,6 +1,6 @@
 Placeholder README:
 
-Drag the folder BDArmoryMoreMGs into your GameData folder for KSP. 
+Drag the folder BDArmorySwingfire into your GameData folder for KSP. 
 
 REQUIRES BDARMORY TO FUNCTION
 
